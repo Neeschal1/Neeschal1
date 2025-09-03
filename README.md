@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeschal Pokharel</h1>
-<h3 align="center">React Native Developer & UI/UX Designer | 🚀 Learning AI & Exploring Future Tech | Passionate about building intuitive mobile apps and clean, user-friendly designs. Always learning, creating, and improving.</h3>
+<h3 align="center">Tech Enthusiastic 🥲😉</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeschal1&label=Profile%20views&color=0e75b6&style=flat" alt="neeschal1" /> </p>
 
