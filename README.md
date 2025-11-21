@@ -1,21 +1,22 @@
-  <p align="right">
+<p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f">
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 </p>
 <div align="center">
-  <h2>Aspiring Software Engineer</h2>
+  <h1>Neeschal</h1>
+  <h2>AI Learner</h2>
   <p>
-   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Information Technology</strong>
+   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Computer Science And Information Technology</strong>
   </p>
 </div>
 <div align="center">
-  <p>🌱 I’m currently learning <strong>MERN Stack</strong></p>
-  <p>💬 Ask me about <strong>Javascript, C, C++, PHP... or anything <a href="https://github.com/kad-f">here</a></strong></p>
+  <p>🌱 I’m currently learning <strong>AI Stuffs like Langchain, Pytorch and so on...</strong></p>
+  <p>💬 Ask me about <strong>Python<a href="https://github.com/neeschal1">here</a></strong></p>
 </div>
 <div align="center">
-  <a href="mailto:keyanandydelgado@gmail.com">
+  <a href="neeschalpok04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
   </a>
   <a href="https://www.facebook.com/keyandelgado.fajanoy">
