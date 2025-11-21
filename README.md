@@ -39,6 +39,9 @@
   <br>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kad-f&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs">
 </div>
+<br>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/Yo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yo" /></a><a href="https://ko-fi.com/YO"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="YO" /></a></p><br>
 <hr>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
