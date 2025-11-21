@@ -28,7 +28,7 @@
 <hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,langchain,pytorch,fastapi"><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi"><br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma">
 </div>
 <hr>
