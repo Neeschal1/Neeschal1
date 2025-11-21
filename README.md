@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kad-f.kad-f">
-</p>
-
 <div align="center">
   <h4>Hi, I'm</h4>
   <h1>Neeschal Pokharel</h1>
