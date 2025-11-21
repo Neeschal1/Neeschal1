@@ -34,7 +34,7 @@
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=kad-f&amp;count_private=true&amp;theme=react&amp;border_radius=10" alt="streak stats">
+  
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=kad-f&amp;count_private=true&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10" alt="readme stats">
   <br>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kad-f&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs">
