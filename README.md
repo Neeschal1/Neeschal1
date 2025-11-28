@@ -28,14 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma">
 </div>
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-  
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=kad-f&amp;count_private=true&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10" alt="readme stats">
-  <br>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kad-f&amp;hide=HTML&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=github-readme-stats" alt="top langs">
-</div>
-<br>
+
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/Yo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yo" /></a><a href="https://ko-fi.com/YO"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="YO" /></a></p><br>
 <hr>
