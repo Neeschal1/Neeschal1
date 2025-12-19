@@ -1,7 +1,7 @@
 <div align="center">
   <h4>Hi, I'm</h4>
   <h1>Neeschal Pokharel</h1>
-  <h2>AI Learner</h2>
+  <h2>Python Developer | GenAI & Backend Engineering | Django & REST Framework | Building Scalable AI Solutions Applications</h2>
   <p>
    🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Computer Science And Information Technology</strong>
   </p>
