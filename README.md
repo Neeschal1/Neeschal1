@@ -1,37 +1,24 @@
-<div align="center">
-  <h4>Hi, I'm</h4>
-  <h1>Neeschal Pokharel</h1>
-  <h2>Python Developer | GenAI & Backend Engineering | Django & REST Framework | Building Scalable AI Solutions Applications</h2>
-  <p>
-   🚀 I am currently a third-year college student majoring in <strong>Bachelor Of Science In Computer Science And Information Technology</strong>
-  </p>
-</div>
-<div align="center">
-  <p>🌱 I’m currently learning <strong>AI Stuffs like Langchain, Pytorch and so on...</strong></p>
-  <p>💬 Ask me about <strong>Python <a href="https://github.com/neeschal1">here</a></strong></p>
-</div>
-<div align="center">
-  <a href="neeschalpok04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red">
-  </a>
-  <a href="[https://www.facebook.com/keyandelgado.fajanoy](https://www.facebook.com/nischal.pokharel.598234)">
-    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/nees_c_hal/">
-    <img alt="Instagram" title="" &#x22;follow="" on="" instagram&#x22;="" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white">
-  </a>
-</div>
-<hr>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,django,docker,redis"><br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,figma">
-</div>
-<hr>
+# 💫 About Me:
+Python Developer | GenAI & Backend Engineering | Django & REST Framework | Building Scalable AI Solutions Applications
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/Yo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Yo" /></a><a href="https://ko-fi.com/YO"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="YO" /></a></p><br>
-<hr>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Facebook!;I'm+always+down+to+collab+:)">
-</h3> 
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/neeschal01_90130) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nees_c_hal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nischal-pokhrel-6543632b7/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeschalpok04@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Neeschal1&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Neeschal1&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeschal1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Neeschal1&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Neeschal1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
