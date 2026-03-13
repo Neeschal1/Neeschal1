@@ -10,7 +10,7 @@ Python Developer | GenAI & Backend Engineering | Django & REST Framework | Build
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Neeschal1&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Neeschal1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Neeschal1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Neeschal1&theme=dark&no-frame=false&no-bg=true&margin-w=4)
